@@ -1,1 +1,43 @@
-# style
+video {
+  object-position: center;
+}
+
+body {
+  background-color: black;
+}
+h1, h2 {
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
+.one {
+  font-weight: normal;
+  font-size: 50px;
+}
+.two {
+  font-weight: 300;
+  font-size: 42px;
+}
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+.link {
+  font-size: 16px;
+  color: aquamarine;
+  display: block;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+video {
+  display: block;
+  margin: 0 auto;
+}
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 30px;
+}
